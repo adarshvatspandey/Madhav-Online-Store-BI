@@ -9,14 +9,6 @@ An interactive Power BI dashboard designed to analyze ecommerce sales performanc
 The **Madhav Ecommerce Sales Dashboard** provides meaningful business insights through interactive visualizations and KPI tracking.  
 This dashboard helps businesses monitor sales growth, profit performance, customer contribution, and category-wise analysis.
 
----
-
-## 📷 Dashboard Preview
-
-![Dashboard Preview](Dashboard%20Screenshot.png)
-
----
-
 ## 📌 Key Insights
 
 - 📈 Monthly Profit Analysis
