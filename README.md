@@ -17,6 +17,10 @@ This dashboard helps businesses monitor sales growth, profit performance, custom
 - 🌍 State-wise Sales Distribution
 - 💳 Payment Mode Analysis
 - 📅 Quarter-wise Filtering
+- 
+---
+ 📊Dashboard Preview
+  ![image](https://github.com/adarshvatspandey/Madhav-Online-Store-BI/blob/070a2c6ea3336f654e3a56fb1084fe912b497f68/madhav%20online%20store%20BI%20Dashboard.png)
 
 ---
 
